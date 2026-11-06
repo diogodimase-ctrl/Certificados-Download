@@ -7,7 +7,7 @@ Nenhum deles pede senha de administrador.
 
 | | Arquivo | Para quê |
 |---|---|---|
-| **1** | [**Instalar-Certificados-0.6.1.exe**](https://github.com/diogodimase-ctrl/Certificados-Download/releases/latest/download/Instalar-Certificados-0.6.1.exe) | **Programa principal.** É este que se usa no dia a dia. |
+| **1** | [**Instalar-Certificados-0.6.2.exe**](https://github.com/diogodimase-ctrl/Certificados-Download/releases/latest/download/Instalar-Certificados-0.6.2.exe) | **Programa principal.** É este que se usa no dia a dia. |
 | 2 | [Instalar-Certificados-AHK-v27.exe](https://github.com/diogodimase-ctrl/Certificados-Download/releases/latest/download/Instalar-Certificados-AHK-v27.exe) | Plano B: versão antiga em AutoHotkey. Só se o programa principal não funcionar. Instala o AutoHotkey sozinho se faltar. |
 | 3 | [AutoHotkey_2.0.31_setup.exe](https://github.com/diogodimase-ctrl/Certificados-Download/releases/latest/download/AutoHotkey_2.0.31_setup.exe) | O AutoHotkey avulso (o instalador do plano B já usa este). |
 
